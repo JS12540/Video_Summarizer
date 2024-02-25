@@ -35,6 +35,10 @@
   - Write the generated bullet points to a text file.
   - Write the transcription text to a separate file for reference.
 
+### Additional Requirement:
+- **FFmpeg Installation**: 
+  - Ensure FFmpeg is installed on the system for audio processing, which is necessary for extracting audio from the YouTube video before transcription.
+
 # Helpful Articles
 
 [6 Useful Text Summarization Algorithm in Python](https://medium.com/@sarowar.saurav10/6-useful-text-summarization-algorithm-in-python-dfc8a9d33074)
